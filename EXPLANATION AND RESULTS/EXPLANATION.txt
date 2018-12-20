@@ -1,1 +1,37 @@
+OVERVIEW :
 
+UNLOCKED PHONES?
+
+unlocked phone is not associated to a specific phone carrier or and so that you can use with any SIM card from any network carrier in the world. That means:
+
+• You have more models of phones to choose from than what the carriers offer.
+
+• When traveling, you can easily use international SIM cards.
+
+• You can switch carriers without penalty.
+
+• Since it’s unlocked, it usually has a higher resale value.
+
+THEN WHAT LOCKED PHONES ARE?
+
+Many phones sold by carriers come “locked” to that carrier. A “locked” phone can only be used with that carrier and we cannot change the carrier; it cannot be used with another carrier’s service. (Not counting roaming.)
+
+This lock can usually be removed by entering a special code or numeric password. In some situations, some carriers will supply this code upon request by the customer; not all carriers will do this.
+
+DISADVANTAGES OF LOCKED PHONES :
+
+We cannot change the carrier and use an plan of other carriers.
+
+ADVANTAGES OF UNLOCKED PHONES :
+
+With an unlocked phone you have the huge advantage of easily changing your network provider and being able to choose a better plan to suit your needs.
+You can save hundreds of dollars when traveling abroad if you have an unlocked phone. Just buy a local SIM card and start making calls at local rates, avoiding roaming charges.
+Unlocked phones tend to have higher resale prices than locked phones, and you can easily sell your unlocked device internationally.
+
+AIM :
+
+To know about top highly preferred unlock phones and their accessories and the top companies manufacturing them by analysis of unlock phone and accessories rating by using the amazon dataset of unlocked phone and accessories.
+
+To plot the result of analysis in graph.
+
+To get a summary of top products in unlock phone and accessories dataset of amazon.
