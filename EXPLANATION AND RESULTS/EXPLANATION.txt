@@ -35,3 +35,53 @@ To know about top highly preferred unlock phones and their accessories and the t
 To plot the result of analysis in graph.
 
 To get a summary of top products in unlock phone and accessories dataset of amazon.
+INSTALLATION DEPENDENCIES:
+
+• Python 3.6.3
+• sqlite3
+• pandas
+• time
+• matplotlib
+• texttable
+HOW TO RUN?
+
+• Pip install git
+• git clone https://github.com/ragulkesavan/RATING-ANALYSIS-OF-AMAZON-UNLOCKED-MOBILE
+• cd RATING-ANALYSIS-OF-AMAZON-UNLOCKED-MOBILE
+• python main.py
+• python figure_1.py
+• python figure_2.py
+• python figure_3.py
+• python figure_4.py
+• python table_1.py
+• python table_2.py
+
+MAIN ALGORITHM :
+
+1.Import the dataset.
+
+2.For each unique product create a list topten [total_of_rating,total_customers,price,overall_rating,brand].
+
+3.Add all individual customer rating of each product to the total_of_rating in list and increment total_customers by 1 for each rating.
+
+4.Do total_of_rating/total_customers and store in overall rating for each element in the list.
+
+5.Create a separate list companies [total_of_rating_for_each_product,total_customers,overall_rating].
+
+6.For all elements in companies calculate overall_review= total_of_rating_for_each_product/total_customers.
+
+7.Sort both topten based on rating.
+
+8.For top 10 unique ratings in list pick up the product that has high number of customers.
+
+9.Sort the companies by no of customers.
+
+10.Print the top10 products and top 10 companies.
+
+OUTPUT :
+
+The top 10 products and companies are found by processing more than 400k data.
+
+ANALYSIS OF OUTPUT :
+
+The results are plotted into graphs and tables.
