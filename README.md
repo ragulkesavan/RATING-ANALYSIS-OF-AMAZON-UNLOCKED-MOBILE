@@ -13,7 +13,8 @@ That means:
  • Since it's unlocked, it usually has a higher resale value.
 
 The caveat is that you might not get every network feature, like Wi-Fi calling or HD voice, and the carrier won't guarantee that the voice or data network will work perfectly on your phone. In other words, you're on your own.
-Thus a analysis is made by using amazon-unlocked-phones dataset to find the top 10 unlocked phones  and accessories.
+
+Thus a analysis is made by using amazon-unlocked-phones dataset(more than 400k data entries) to find the top 10 unlocked phones  and accessories.
 
 INSTALLATION  DEPENDENCIES:
     
