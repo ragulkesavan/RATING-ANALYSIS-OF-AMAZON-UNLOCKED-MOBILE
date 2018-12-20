@@ -1,4 +1,6 @@
 # RATING-ANALYSIS-OF-AMAZON-UNLOCKED-MOBILE
+vist https://medium.com/@srk7official1998/rating-analysis-of-unlocked-phones-in-amazon-using-python-3d6517d01b4b for datailed explanation
+
 OVERVIEW :
 
 An unlocked phone is not tied to a specific phone carrier and can be used on any carrier you choose. 
